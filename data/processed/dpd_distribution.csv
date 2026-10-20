@@ -1,0 +1,5 @@
+payment_channel,total_repayment_transactions,total_amount_collected,avg_days_past_due,on_time_repayments,on_time_collection_rate_pct
+STK_MENU,2676,10498536.00,3.1,1636,61.14
+AGENT_NETWORK,2701,10453033.75,3.0,1696,62.79
+USSD_733,2592,10376490.50,3.0,1598,61.65
+MPESA_APP,2659,10190597.75,3.1,1638,61.60
