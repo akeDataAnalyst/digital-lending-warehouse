@@ -1,4 +1,5 @@
 # **M-Pesa Digital Lending Data Warehouse & Risk Analytics Engine**
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)](https://digital-lending-warehouse-uefhfk32cyxvqbg9sn7nfe.streamlit.app/)
 
 A production-style SQL Data Warehouse and BI Analytics Control Tower engineered to process, model, and monitor digital micro-lending transactions across the Safaricom Ethiopia (M-Pesa) ecosystem.
 
