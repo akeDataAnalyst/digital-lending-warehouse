@@ -6,7 +6,7 @@ A production-style SQL Data Warehouse and BI Analytics Control Tower engineered 
 
 ## **Description**
 
-This project models an end-to-end FinTech analytical data pipeline—from synthetic raw data generation and staging transformations to a star-schema production warehouse and an interactive Streamlit Executive Control Tower (`app.py`). 
+This project models an end-to-end FinTech analytical data pipeline from synthetic raw data generation and staging transformations to a star-schema production warehouse and an interactive Streamlit Executive Control Tower. 
 
 The warehouse integrates multi-domain telemetry across customer KYC profiles, daily GSM airtime/data activity, M-Pesa wallet transactions, loan origination applications, active loan balances, repayment schedules, and collection channel events. It enforces standardized credit risk KPIs—including Non-Performing Loan (NPL) rates, Portfolio at Risk (PAR), and Days Past Due (DPD) delinquency aging buckets—giving executive decision-makers full visibility into credit risk and repayment channel efficiency across all Ethiopian administrative regions.
 
@@ -37,11 +37,11 @@ To solve these challenges, this project implements a multi-tiered, governed Star
 
 ## **Tech Stack**
 
-- **Database Engine:** MySQL 8.0 / PostgreSQL (DDL, DML, Window Functions, Views, CTEs, Foreign Keys, Indexes)
+- **Database Engine:** MySQL 8.0 (DDL, DML, Window Functions, Views, CTEs, Foreign Keys, Indexes)
 - **Data Engineering & Processing:** Python 3.13, Pandas, NumPy, SQLAlchemy, PyMySQL
 - **Visualization & BI Dashboard:** Streamlit, Matplotlib/Plotly
-- **Data Standards:** Safaricom Ethiopia M-Pesa Standards (`+251 7` prefixes, 14 Ethiopian Administrative Regions, Official M-Pesa Channels)
-- **Version Control & Docs:** Git, GitHub, Markdown
+- **Data Standards:** Safaricom Ethiopia M-Pesa Standards
+- **Version Control & Docs:** Git, GitHub
 
 ---
 
